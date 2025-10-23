@@ -2,6 +2,8 @@
 
 This repository contains a Jupyter Notebook detailing a geospatial project focused on detecting and mapping banana trees within a specified area. The methodology combines remote sensing image processing with a template matching algorithm to identify potential tree locations.
 
+<img width="664" height="530" alt="results_banana_trees" src="https://github.com/user-attachments/assets/5fda75aa-c901-4ada-9cab-1a8f393d05f6" />
+
 ## 🚀 Features
 
 - **Geospatial Data Handling**: Utilizes `rasterio` and `geopandas` for reading, analyzing, and plotting high-resolution raster imagery and vector point data.  
